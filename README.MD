@@ -60,8 +60,8 @@ This repository is organized into the following sections:
 ```
 Data-Structures-And-Algorithm/
 ├── Array/
-│   ├── 
-│   ├── 
+│   ├── Insertion.cpp
+│   ├── Deletion.cpp
 ├── String/
 │   ├── 
 │   ├── 
