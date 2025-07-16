@@ -1,0 +1,1 @@
+{"name":"Local: LeftRotation_K_Times","url":"/home/rocky/Desktop/DSA_CPP/Array/LeftRotation_K_Times.cpp","tests":[{"id":1752678338608,"input":"6\n1 2 3 4 5 6\n2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/rocky/Desktop/DSA_CPP/Array/LeftRotation_K_Times.cpp","group":"local","local":true}
